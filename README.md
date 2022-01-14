@@ -1,8 +1,8 @@
 Screenshots
 
 
-![screenshot1](https://user-images.githubusercontent.com/68930973/149575175-7a1ab106-4f74-4852-9b8e-fedf273e930b.png)
 ![image](https://user-images.githubusercontent.com/68930973/149575260-5909b3fe-f498-4024-a603-1ae2a8685f1d.png)
+![screenshot1](https://user-images.githubusercontent.com/68930973/149575175-7a1ab106-4f74-4852-9b8e-fedf273e930b.png)
 ![image](https://user-images.githubusercontent.com/68930973/149575278-14496aea-1ee3-421d-87fc-0aab10c7b01c.png)
 
 
