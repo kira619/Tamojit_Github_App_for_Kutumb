@@ -24,8 +24,7 @@ results from <https://github-trending-api.now.sh>
 
 This App was developed as a part of the the assignment for the recruitment process of Kutumb.
  
- 
- #HireMePlz #GiveMeJob
+
  
 ## Project Structure
 The project consists of two modules
@@ -83,4 +82,5 @@ The `assets` folder contains sample responses used in mock tests.
 
 Gradle configuration creates a `test.jar` file too that can be
 used in consuming modules (like the app) to test against the mock
-server and responses.
+server and responses. 
+#GiveMeJob
