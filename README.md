@@ -1,4 +1,21 @@
-# Github Trending
+Screenshots
+
+
+![screenshot1](https://user-images.githubusercontent.com/68930973/149575175-7a1ab106-4f74-4852-9b8e-fedf273e930b.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Github Trending/
 An android app that shows trending repositories and developers, fetching
 results from <https://github-trending-api.now.sh>
 
